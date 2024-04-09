@@ -29,10 +29,15 @@ npm init or npm install
 5.Install this on your desired text/code editor using terminal
 
 a. npm install mysql          //this package is used to connect nodejs to mysql.
+
 b. npm install express       // to create app.
+
 c. npm install body-parser   //for encoding.
+
 d. npm install bcryptjs     // for encrypting and hashing the password for security
+
 e. npm install jsonwebtoken     // for creating token while booking 
+
 f. npm install dotenv      // for creating .env file to keep APIKEY for only admin to add trains 
 
 6. start the app
